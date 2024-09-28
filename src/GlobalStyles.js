@@ -20,7 +20,11 @@ code {
     monospace;
 }
 
+<<<<<<< Updated upstream
 h1,h2,h3,h4 {
+=======
+h1,h2 {
+>>>>>>> Stashed changes
     font-family:  'Poppins', sans-serif;
 }
 
