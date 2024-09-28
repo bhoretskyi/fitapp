@@ -20,7 +20,7 @@ code {
     monospace;
 }
 
-h1,h2,h3,h4 {
+h1,h2,h3 {
     font-family:  'Poppins', sans-serif;
 }
 
@@ -28,3 +28,4 @@ h1,h2,h3,h4 {
 
 `;
 export default GlobalStyle;
+ 
