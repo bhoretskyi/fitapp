@@ -6,11 +6,12 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  background-color: #1E1E1E;
+  background-color: rgb(255, 255, 255);;
   max-width: 393px;
   font-family: 'League Spartan', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  max-width: 375px;
 }
 
   
