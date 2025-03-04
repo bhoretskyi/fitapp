@@ -1,4 +1,4 @@
-import { LaunchScreen } from "../components/LaunchScreen";
+import { LaunchScreen } from "../components/LaunchScreen/LaunchScreen";
 
 export const Launch = () => {
   return (
